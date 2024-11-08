@@ -74,6 +74,7 @@ Running the System
    ```bash
    python data.py
   This script captures images of various hand signs and saves them in the MP_Data folder.
+
 3. **To train the LSTM model, run**:
    ```bash
    python trainmodel.py
